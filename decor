@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>🐾 Cat Facts</title>
+
+<style>
+body {
+  background-color: pink;
+  font-family: cursive;
+  text-align: center;
+}
+
+.card {
+  background: white;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 50px;
+}
+
+h1 {
+  color: hotpink;
+}
+
+button {
+  background-color: lightpink;
+  border: none;
+  border-radius: 20px;
+  padding: 15px;
+  font-size: 18px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="card">
+  <h1>🐾 Cat Facts 🐾</h1>
+
+  <p>😽 Slow blinks can be a way cats show trust!</p>
+
+  <p>🐱 A cat showing their belly can mean they feel safe.</p>
+
+  <p>🐾 Cats use their whiskers to sense their surroundings!</p>
+
+  <button>Next Fact 🐾</button>
+</div>
+
+</body>
+</html>
